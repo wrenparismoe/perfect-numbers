@@ -1,4 +1,4 @@
-# Perfect Number Lab
+# Perfect Numbers
 This lab introduces a set of algorithms programmed in Python and Java to compute perfect numbers. The goal was to produce as many numbers as possible in the shortest time. A perfect number has the property that it is equal to the sum of all its proper divisors. For example:
 
 | *n* | Proper Divisors | Sum of Proper Divisors |
